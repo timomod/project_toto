@@ -1,0 +1,14 @@
+{
+    "name": "timomo/project_toto",
+    "description": "Webforce3 web project 1",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Timo MODEEN",
+            "email": "timomodeen@yahoo.com"
+        }
+    ],
+    "require": {
+        "social-links/social-links": "^1.12"
+    }
+}
