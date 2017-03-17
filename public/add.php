@@ -14,7 +14,7 @@ $headerH1 = 'Add New Student';
 
 
 /***********************************************************/
-//SQL query : Fetch all Sessions for display on form
+//SQL query : Fetch all Sessions for display on form, 
 $sql = "
 
 SELECT ses_number, tra_name, ses_id
